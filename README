@@ -1,3 +1,38 @@
-mousepool main GIT repository
+URxvt*font:				xft:Dina:pixelsize=9:antialias=true:hinting=true
+URxvt*scrollBar:		false
+URxvt*internalBorder:	5
+URxvt*saveLines:		50000
 
-Test 2
+URxvt.font:				xft:Droid Sans Mono:pixelsize=11:antialias=true:hinting=true
+URxvt.boldFont:			xft:Droid Sans Mono:bold:pixelsize=11:antialias=true:hinting=true
+
+#This makes manpages nice
+*colorBD:  #A0FF00
+*colorUL:  #0080FF              
+*colorIT:  #8000FF
+
+*foreground:#B0B0B0
+*background:#000000
+
+*throughColor:     #ff00ff
+*highlightColor:   #404040
+
+! FINE
+*color0:  #000000
+*color1:  #bf0000
+*color2:  #78bf00
+*color3:  #bf6000
+*color4:  #0060BF
+*color5:  #6000BF
+*color6:  #00BFBF
+*color7:  #FFFFFF
+
+! BOLD
+*color8:  #000000
+*color9:  #FF0000
+*color10: #A0FF00
+*color11: #FF8000
+*color12: #0080FF
+*color13: #8000FF
+*color14: #00FFFF
+*color15: #FFFFFF
